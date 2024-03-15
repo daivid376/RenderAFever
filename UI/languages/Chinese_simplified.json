@@ -1,0 +1,5 @@
+{
+"tabWidget"							:[[0,"材质导入"],[1,"材质转换"],[2,"材质预制"],[3,"灯光管理器"],[4,"杂项"]],
+"createMaterialLabel"				:"创建材质： ",
+"useTemplateLabel"					:"使用贴图模板:    "
+}

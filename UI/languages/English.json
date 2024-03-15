@@ -1,0 +1,5 @@
+{
+"tabWidget"							:[[0,"MaterialImporter"],[1,"MaterialConverter"],[2,"MaterialPreset"],[3,"LightManager"],[4,"MiscTools"]],
+"createMaterialLabel"				:"CreateMaterial:   ",
+"useTemplateLabel"					:"UseTemplate:   "
+}

@@ -1,0 +1,11 @@
+{
+"primaryMetalness": "none", 
+"diffuseColor": "Diffuse", 
+"bump": "Normal", 
+"pureColor": "Emissive", 
+"height": "Height", 
+"primaryReflectionF0": "none", 
+"primaryReflectionColor": "Reflection", 
+"primaryReflectionGlossiness": "Glossiness", 
+"primaryReflectionIOR": "ior"
+}

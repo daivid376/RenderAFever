@@ -1,0 +1,11 @@
+{
+"primaryMetalness": "primaryMetalness", 
+"diffuseColor": "diffuse", 
+"bump": "bump", 
+"pureColor": "pureColor", 
+"height": "height", 
+"primaryReflectionF0": "primaryReflectionF0", 
+"primaryReflectionColor": "primaryReflectionColor", 
+"primaryReflectionGlossiness": "primaryReflectionGlossiness", 
+"primaryReflectionIOR": "primaryReflectionIOR"
+}

@@ -1,0 +1,12 @@
+{
+"diffuseColor": ["diffuseColor:   ","Diffuse",2], 
+"primaryMetalness": ["metalness:   ","Metallic",3], 
+"primaryReflectionColor": ["reflectionColor:   ","Specular",4], 
+"primaryReflectionGlossiness": ["glossiness:   ","Roughness",5], 
+"primaryReflectionF0": ["f0:   ","f0",6], 
+"primaryReflectionIOR": ["ior:   ","ior",7],
+"pureColor": ["emissive:   ","Emissive",8], 
+"bump": ["normal:   ","Normal",9], 
+"height": ["height:   ","Height",10]
+
+}
